@@ -1,0 +1,69 @@
+{
+  "configVersion": 1,
+  "index": "https://pradeeprajr93.github.io/the-catalysts/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://pradeeprajr93.github.io/the-catalysts/favicon.ico",
+        "https://pradeeprajr93.github.io/the-catalysts/index.html",
+        "https://pradeeprajr93.github.io/the-catalysts/main.2cb8c3dccf91dbb09dbb.js",
+        "https://pradeeprajr93.github.io/the-catalysts/polyfills.7037a817a5bb670ed2ca.js",
+        "https://pradeeprajr93.github.io/the-catalysts/runtime.ec2944dd8b20ec099bf3.js",
+        "https://pradeeprajr93.github.io/the-catalysts/styles.4f5e05d14e0c05bfbde5.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://pradeeprajr93.github.io/the-catalysts/assets/icons/icon-128x128.png",
+        "https://pradeeprajr93.github.io/the-catalysts/assets/images/improve.jpg",
+        "https://pradeeprajr93.github.io/the-catalysts/assets/images/motivation.jpg",
+        "https://pradeeprajr93.github.io/the-catalysts/assets/images/new.jpg",
+        "https://pradeeprajr93.github.io/the-catalysts/assets/images/streetfood.jpg",
+        "https://pradeeprajr93.github.io/the-catalysts/assets/images/tc.png",
+        "https://pradeeprajr93.github.io/the-catalysts/assets/images/voice.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://pradeeprajr93.github.io/the-catalysts/assets/icons/icon-128x128.png": "5e33383a20114e68358a334d576a01a36df0889d",
+    "https://pradeeprajr93.github.io/the-catalysts/assets/images/improve.jpg": "72b44c919d5569bc848544b2ae8d48fc8f4ccbd9",
+    "https://pradeeprajr93.github.io/the-catalysts/assets/images/motivation.jpg": "b0d09a35229c418ab2b0ff125efbadf5216ba65f",
+    "https://pradeeprajr93.github.io/the-catalysts/assets/images/new.jpg": "4f42758d28272bbdb69e800ce090cec7255ba0fc",
+    "https://pradeeprajr93.github.io/the-catalysts/assets/images/streetfood.jpg": "f637931571134f689532b8a173864ff36027134e",
+    "https://pradeeprajr93.github.io/the-catalysts/assets/images/tc.png": "6bc79937feecc421ed31bb75a4fbd91f8a339cb6",
+    "https://pradeeprajr93.github.io/the-catalysts/assets/images/voice.png": "5e3dc82a14559c7a3269d4d4a864996a0d883958",
+    "https://pradeeprajr93.github.io/the-catalysts/favicon.ico": "3f3fda81c2fda5014c78dd93b0a564b4ee1804c3",
+    "https://pradeeprajr93.github.io/the-catalysts/index.html": "02127d9a5f8bb079040a931bf07a99011e4ac31b",
+    "https://pradeeprajr93.github.io/the-catalysts/main.2cb8c3dccf91dbb09dbb.js": "563e12f3bc589f8a6e4461d301d1f5a22b643188",
+    "https://pradeeprajr93.github.io/the-catalysts/polyfills.7037a817a5bb670ed2ca.js": "6946e10a03311677a01490b8e91741668e64e17e",
+    "https://pradeeprajr93.github.io/the-catalysts/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://pradeeprajr93.github.io/the-catalysts/styles.4f5e05d14e0c05bfbde5.css": "edcdd0db0c2cec78b5841741a8392e2d3ecfa2f6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
