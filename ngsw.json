@@ -9,7 +9,7 @@
       "urls": [
         "https://pradeeprajr93.github.io/the-catalysts/favicon.ico",
         "https://pradeeprajr93.github.io/the-catalysts/index.html",
-        "https://pradeeprajr93.github.io/the-catalysts/main.d8887df144b8ec592c2b.js",
+        "https://pradeeprajr93.github.io/the-catalysts/main.73f5bbb7573b798aca14.js",
         "https://pradeeprajr93.github.io/the-catalysts/polyfills.7037a817a5bb670ed2ca.js",
         "https://pradeeprajr93.github.io/the-catalysts/runtime.ec2944dd8b20ec099bf3.js",
         "https://pradeeprajr93.github.io/the-catalysts/styles.dbf5e560d07ef7b7b261.css"
@@ -22,6 +22,7 @@
       "updateMode": "prefetch",
       "urls": [
         "https://pradeeprajr93.github.io/the-catalysts/assets/icons/icon-128x128.png",
+        "https://pradeeprajr93.github.io/the-catalysts/assets/icons/icon-144x144.png",
         "https://pradeeprajr93.github.io/the-catalysts/assets/images/improve.jpg",
         "https://pradeeprajr93.github.io/the-catalysts/assets/images/motivation.jpg",
         "https://pradeeprajr93.github.io/the-catalysts/assets/images/new.jpg",
@@ -37,6 +38,7 @@
   "dataGroups": [],
   "hashTable": {
     "https://pradeeprajr93.github.io/the-catalysts/assets/icons/icon-128x128.png": "5e33383a20114e68358a334d576a01a36df0889d",
+    "https://pradeeprajr93.github.io/the-catalysts/assets/icons/icon-144x144.png": "b75b089323c76ecceb0b6d575e9b74d2e5b82269",
     "https://pradeeprajr93.github.io/the-catalysts/assets/images/improve.jpg": "72b44c919d5569bc848544b2ae8d48fc8f4ccbd9",
     "https://pradeeprajr93.github.io/the-catalysts/assets/images/motivation.jpg": "b0d09a35229c418ab2b0ff125efbadf5216ba65f",
     "https://pradeeprajr93.github.io/the-catalysts/assets/images/new.jpg": "4f42758d28272bbdb69e800ce090cec7255ba0fc",
@@ -46,8 +48,8 @@
     "https://pradeeprajr93.github.io/the-catalysts/assets/images/voice.png": "5e3dc82a14559c7a3269d4d4a864996a0d883958",
     "https://pradeeprajr93.github.io/the-catalysts/assets/images/worklife.jpg": "43d648ea1a937f5dc60784a2a80ebb4f9312fc49",
     "https://pradeeprajr93.github.io/the-catalysts/favicon.ico": "3f3fda81c2fda5014c78dd93b0a564b4ee1804c3",
-    "https://pradeeprajr93.github.io/the-catalysts/index.html": "3d0da40707cbb42a750e9e47c57600be05e0341b",
-    "https://pradeeprajr93.github.io/the-catalysts/main.d8887df144b8ec592c2b.js": "e74026ee4d1b8c93760442edd3157b8b1e00e5e9",
+    "https://pradeeprajr93.github.io/the-catalysts/index.html": "7621b4b8ed157c6db858726ddb91ea5fc8a43692",
+    "https://pradeeprajr93.github.io/the-catalysts/main.73f5bbb7573b798aca14.js": "864834724b35da2ea1d1d35928d4f1efdd36292e",
     "https://pradeeprajr93.github.io/the-catalysts/polyfills.7037a817a5bb670ed2ca.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "https://pradeeprajr93.github.io/the-catalysts/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://pradeeprajr93.github.io/the-catalysts/styles.dbf5e560d07ef7b7b261.css": "0a2a2ad9437db2bcc26176bb78437e153f6b1ef2"

@@ -4,12 +4,12 @@
   "theme_color": "#824c1a",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/the-catalysts/",
+  "start_url": "/the-catalysts/",
   "icons": [
     {
-      "src": "assets/icons/icon-128x128.png",
-      "sizes": "128x128",
+      "src": "assets/icons/icon-144x144.png",
+      "sizes": "144x144",
       "type": "image/png"
     }
   ]
