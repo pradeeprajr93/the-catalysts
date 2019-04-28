@@ -1,7 +1,7 @@
 {
-  "name": "the-catalysts",
-  "short_name": "the-catalysts",
-  "theme_color": "#1976d2",
+  "name": "The Catalysts",
+  "short_name": "The Catalysts",
+  "theme_color": "#824c1a",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
