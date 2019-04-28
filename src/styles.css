@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    max-width: 600px;
+    margin: auto;
+    background-color: #fcdec4;
+    min-width: 400px;
+}
